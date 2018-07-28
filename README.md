@@ -1,5 +1,10 @@
 # Magento 2 Profiler Module #
 
+## Fork fixes
+
+* Updated directory structure.
+* Fixed symfony/yaml dependecy (dev-issue-8145)
+
 ## Installation
 
 Log in to the Magento server, go to your Magento install dir and run these commands:

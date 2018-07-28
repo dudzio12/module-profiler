@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9822825c-9beb-4d4d-b983-90f741aa96e5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Api/Data/ProfileInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/Api/Data/ProfileInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Block/Context.php" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Context.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Block/Profile/Listing.php" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Profile/Listing.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Block/Profile/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Profile/View.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Block/Tab/Code.php" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Tab/Code.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Block/Tab/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Tab/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Block/Tab/IO.php" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Tab/IO.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Block/Tab/TabInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Tab/TabInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Block/Toolbar.php" beforeDir="false" afterPath="$PROJECT_DIR$/Block/Toolbar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Console/Command/AbstractCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/Console/Command/AbstractCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Console/Command/AllowIpsCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/Console/Command/AllowIpsCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Console/Command/DisableCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/Console/Command/DisableCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Console/Command/EnableCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/Console/Command/EnableCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Console/Command/StatusCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/Console/Command/StatusCommand.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Controller/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Controller/Profile/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Profile/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Controller/Profile/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/Profile/View.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Helper/Format.php" beforeDir="false" afterPath="$PROJECT_DIR$/Helper/Format.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Model/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Model/Driver/Output/Html.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Driver/Output/Html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Model/Storage.php" beforeDir="false" afterPath="$PROJECT_DIR$/Model/Storage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Profile/Code.php" beforeDir="false" afterPath="$PROJECT_DIR$/Profile/Code.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Profile/Context.php" beforeDir="false" afterPath="$PROJECT_DIR$/Profile/Context.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Profile/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/Profile/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Profile/General.php" beforeDir="false" afterPath="$PROJECT_DIR$/Profile/General.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Profile/Meta.php" beforeDir="false" afterPath="$PROJECT_DIR$/Profile/Meta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/Profile/Pool.php" beforeDir="false" afterPath="$PROJECT_DIR$/Profile/Pool.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/etc/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/etc/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/etc/frontend/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/etc/frontend/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/layout/profiler_profile_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/layout/profiler_profile_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/layout/profiler_profile_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/layout/profiler_profile_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/page_layout/profiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/page_layout/profiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/templates/profile/listing.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/templates/profile/listing.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/templates/profile/view.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/templates/profile/view.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/templates/root.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/templates/root.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/templates/tab/code.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/templates/tab/code.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/templates/tab/database.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/templates/tab/database.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/templates/tab/io.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/templates/tab/io.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/templates/toolbar.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/templates/toolbar.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/css/less/_module.less" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/css/less/_module.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/css/less/_module/_base.less" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/css/less/_module/_base.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/css/less/_module/_etc.less" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/css/less/_module/_etc.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/css/less/_module/_tabs.less" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/css/less/_module/_tabs.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/css/module.css" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/css/module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/js/lib/jquery.filtertable.js" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/js/lib/jquery.filtertable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/js/lib/jquery.tablesorter.js" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/js/lib/jquery.tablesorter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/js/lib/jquery.treetable.js" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/js/lib/jquery.treetable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Profiler/view/base/web/js/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/view/base/web/js/table.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/registration.php" />
+        <option value="$PROJECT_DIR$/src/Profiler/registration.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1920" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="module-profiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="module-profiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/Profiler" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9822825c-9beb-4d4d-b983-90f741aa96e5" name="Default" comment="" />
+      <created>1532784476273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532784476273</updated>
+      <workItem from="1532784477728" duration="329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="329000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="MagicentoScripts" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Profiler/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
