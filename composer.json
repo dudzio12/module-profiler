@@ -7,7 +7,12 @@
     "symfony/yaml": "dev-issue-8145"
   },
   "type": "magento2-module",
-  "version": "1.0.6",
+  "version": "1.0.7",
+  "source": {
+    "url": "https://github.com/jstoeffler/KitanoConnectionBundle.git",
+    "type": "git",
+    "reference": "master"
+  },
   "license": [
     "proprietary"
   ],
