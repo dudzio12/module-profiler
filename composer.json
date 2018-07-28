@@ -1,6 +1,6 @@
 {
   "name": "mirasvit/module-profiler",
-  "description": "Magento 2 Profiler",
+  "description": "Magento 2 Profiler forked from mirasvit/module-profiler",
   "require": {
     "magento/framework": "100.*|101.*",
     "jdorn/sql-formatter": "^1.2",
@@ -9,7 +9,7 @@
   "type": "magento2-module",
   "version": "1.0.7",
   "source": {
-    "url": "https://github.com/jstoeffler/KitanoConnectionBundle.git",
+    "url": "https://github.com/dudzio12/module-profiler.git",
     "type": "git",
     "reference": "master"
   },
